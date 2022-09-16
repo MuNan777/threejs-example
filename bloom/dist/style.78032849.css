@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.label {
+  color: #fff;
+  font-size: 1.2rem;
+}
+
+.labelChina {
+  color: #fff;
+  font-size: 1.2rem;
+  display: none;
+}
+
+.visible {
+  display: block;
+}
+
+body {
+  background-color: #000;
+  overflow: hidden;
+}
+
+
+/*# sourceMappingURL=/style.78032849.css.map */
